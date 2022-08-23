@@ -8,3 +8,8 @@
 	url = https://github.com/simonetiberi/bandits
 	shallow = true
 	registered = true
+[submodule "distinct"]
+	path = distinct
+	url = https://github.com/simonetiberi/distinct
+	shallow = true
+	registered = true

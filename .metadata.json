@@ -1,5 +1,8 @@
 [
   {
     "package": "BANDITS"
+  },
+  {
+    "package": "distinct"
   }
 ]
