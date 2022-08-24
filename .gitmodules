@@ -8,6 +8,11 @@
 	url = https://github.com/simonetiberi/bandits
 	shallow = true
 	registered = true
+[submodule "DifferentialRegulation"]
+	path = DifferentialRegulation
+	url = https://github.com/simonetiberi/differentialregulation
+	shallow = true
+	registered = true
 [submodule "distinct"]
 	path = distinct
 	url = https://github.com/simonetiberi/distinct

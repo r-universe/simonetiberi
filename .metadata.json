@@ -3,6 +3,9 @@
     "package": "BANDITS"
   },
   {
+    "package": "DifferentialRegulation"
+  },
+  {
     "package": "distinct"
   }
 ]
