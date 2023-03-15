@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "distinct"]
-	path = distinct
-	url = https://github.com/simonetiberi/distinct
+[submodule "BANDITS"]
+	path = BANDITS
+	url = https://github.com/simonetiberi/bandits
 	shallow = true
 	registered = true
 [submodule "DifferentialRegulation"]
@@ -13,8 +13,8 @@
 	url = https://github.com/simonetiberi/differentialregulation
 	shallow = true
 	registered = true
-[submodule "BANDITS"]
-	path = BANDITS
-	url = https://github.com/simonetiberi/bandits
+[submodule "distinct"]
+	path = distinct
+	url = https://github.com/simonetiberi/distinct
 	shallow = true
 	registered = true

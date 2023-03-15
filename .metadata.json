@@ -1,11 +1,11 @@
 [
   {
-    "package": "distinct"
+    "package": "BANDITS"
   },
   {
     "package": "DifferentialRegulation"
   },
   {
-    "package": "BANDITS"
+    "package": "distinct"
   }
 ]
