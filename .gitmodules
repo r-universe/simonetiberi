@@ -8,6 +8,9 @@
 [submodule "DifferentialRegulation"]
 	path = DifferentialRegulation
 	url = https://github.com/simonetiberi/differentialregulation
+[submodule "IsoBayes"]
+	path = IsoBayes
+	url = https://github.com/simonetiberi/isobayes
 [submodule "distinct"]
 	path = distinct
 	url = https://github.com/simonetiberi/distinct
